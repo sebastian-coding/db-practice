@@ -1,0 +1,1 @@
+SELECT b.title FROM books JOIN authors a ON b.author_id = a.id WHERE a.country = 'UK' OR a.country = 'Japan;';
