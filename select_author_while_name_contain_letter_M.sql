@@ -1,1 +1,1 @@
-select* from authors where last_name ike 'M%';
+select* from authors where last_name like 'm%';
