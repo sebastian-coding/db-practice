@@ -1,1 +1,1 @@
-select * from books where genre='horror' and publish_year>1980
+select * from books where genre='Horror' and publish_year>1980
